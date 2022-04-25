@@ -1,6 +1,7 @@
 Olá! Eu sou o Pedro Henrique ✌️
 
 [![Rede Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-rodrigues-carvalho-046596230/)
+[![Rede Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_henrique_rodrigues_wp/)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenrique2077&show_icons=true&theme=tokyonight)
 
